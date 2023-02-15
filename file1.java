@@ -7,3 +7,9 @@ Click here to download the latest (2.39.2) 64-bit version of Git for Windows. Th
 Other Git for Windows downloads
 Standalone Installer
 32-bit Git for Windows Setup.
+Portable ("thumbdrive edition")
+32-bit Git for Windows Portable.
+
+64-bit Git for Windows Portable.
+
+Using winget tool
